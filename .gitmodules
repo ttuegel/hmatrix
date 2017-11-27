@@ -1,0 +1,6 @@
+[submodule "cabal-config-nix"]
+	path = cabal-config-nix
+	url = https://github.com/ttuegel/cabal-config-nix.git
+[submodule "nixpkgs-channels"]
+	path = nixpkgs
+	url = https://github.com/NixOS/nixpkgs-channels.git

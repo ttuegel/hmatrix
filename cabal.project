@@ -1,0 +1,10 @@
+packages:
+  packages/base
+  packages/glpk
+  packages/gsl
+  packages/sparse
+  packages/special
+  packages/tests
+
+package hmatrix
+  flags: openblas disable-default-paths
